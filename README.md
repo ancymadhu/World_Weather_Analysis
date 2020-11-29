@@ -16,3 +16,6 @@ Desiging the travel app - 'PlanMyTrip' which gives weather description and weath
 > Generating a set of 2,000 random latitudes and longitudes, retrieving the nearest city, and performing an API call with the OpenWeatherMap. 
 > Using API to retieve the current weather description of the city.
 > Creating a new dataframe containing the updated weather data.
+
+The DataFrame at the end of Part I of the project looks as below:
+![1](https://user-images.githubusercontent.com/73450637/100529510-410b4a80-31b6-11eb-8660-ed981753b82f.png)
