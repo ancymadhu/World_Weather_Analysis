@@ -29,5 +29,6 @@ The DataFrame at the end of Part I of the project looks as below:
 
 The figure below shows the route between chosen cities.
 
+![3](https://user-images.githubusercontent.com/73450637/100529684-04d8e980-31b8-11eb-94e7-262e60263d3c.png)
 
 The figure below shows the marker layer map with a pop-up marker for each city on the itinerary.
