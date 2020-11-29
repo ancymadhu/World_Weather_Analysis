@@ -21,3 +21,8 @@ The DataFrame at the end of Part I of the project looks as below:
 
 ### Part II - Creating a Customer Travel Destinations Map 
 > Using input statements, customer weather preferences are retrieved and then using those preferences potential travel destinations and nearby hotels are identified. Then, these destinations are showed on a marker layer map with pop-up markers.
+
+
+
+
+### Part III - Creating a Travel Itinerary Map
