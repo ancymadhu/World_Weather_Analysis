@@ -22,7 +22,12 @@ The DataFrame at the end of Part I of the project looks as below:
 ### Part II - Creating a Customer Travel Destinations Map 
 > Using input statements, customer weather preferences are retrieved and then using those preferences potential travel destinations and nearby hotels are identified. Then, these destinations are showed on a marker layer map with pop-up markers.
 
-
-
+![2](https://user-images.githubusercontent.com/73450637/100529639-909e4600-31b7-11eb-9979-339025d73442.png)
 
 ### Part III - Creating a Travel Itinerary Map
+> Using the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, a marker layer map with a pop-up marker for each city on the itinerary is created.
+
+The figure below shows the route between chosen cities.
+
+
+The figure below shows the marker layer map with a pop-up marker for each city on the itinerary.
